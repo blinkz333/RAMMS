@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+
+    <string id="AppName">STAHL570</string>
+
+    <!-- STEP GOAL -->
+    <string id="StepGoalTitle">Step Goal</string>
+
+    <string id="StepGoal3000">3,000 Steps</string>
+    <string id="StepGoal5000">5,000 Steps</string>
+    <string id="StepGoal7500">7,500 Steps</string>
+    <string id="StepGoal10000">10,000 Steps</string>
+    <string id="StepGoal12500">12,500 Steps</string>
+    <string id="StepGoal15000">15,000 Steps</string>
+
+
+    <!-- TIME FORMAT -->
+    <string id="TimeFormatTitle">Time Format</string>
+
+    <string id="TimeFormatSystem">System Default</string>
+    <string id="TimeFormat12Hour">12 Hour</string>
+    <string id="TimeFormat24Hour">24 Hour</string>
+
+</strings>

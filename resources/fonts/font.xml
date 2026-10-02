@@ -1,0 +1,13 @@
+<resources>
+    <font
+        id="TimeFont"
+        filename="DDay.fnt"
+        antialias="true"
+    />
+
+    <font
+        id="DateFont"
+        filename="Teko.fnt"
+        antialias="true"
+    />
+</resources>

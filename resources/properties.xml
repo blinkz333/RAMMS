@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+
+    <property id="stepGoal" type="number">5000</property>
+
+    <property id="timeFormat" type="number">0</property>
+
+</properties>
